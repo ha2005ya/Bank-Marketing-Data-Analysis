@@ -120,11 +120,11 @@ Bank-Marketing-Data-Analysis/
 Dashboard screenshots will be added here to provide a quick visual overview of the analysis.
 
 ```markdown
-![Customer Profile Dashboard](images/dashboard_1.png)
+![Customer Profile Dashboard](images/Dashboard1.png)
 
-![Campaign Performance Dashboard](images/dashboard_2.png)
+![Campaign Performance Dashboard](images/Dashboard2.png)
 
-![Strategic Customer Intelligence Dashboard](images/dashboard_3.png)
+![Strategic Customer Intelligence Dashboard](images/Dashboard3.png)
 ```
 
 ## What I Learned
